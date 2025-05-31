@@ -2,6 +2,8 @@
 
 SubTime Editor 是一个简单而强大的字幕时间轴编辑工具，专门用于调整 SRT 格式字幕的时间轴。
 
+🌐 在线演示：[https://sub-time-editor.vercel.app/](https://sub-time-editor.vercel.app/)
+
 ## ✨ 特性
 
 - 🎥 支持视频预览：直接在编辑器中播放视频，实时查看字幕效果
